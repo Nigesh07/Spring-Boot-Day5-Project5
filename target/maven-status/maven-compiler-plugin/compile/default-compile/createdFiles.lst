@@ -1,0 +1,5 @@
+com\day5\dao\BugDaoImpl.class
+com\day5\util\DatabaseUtil.class
+com\day5\App.class
+com\day5\dao\BugDao.class
+com\day5\model\Bug.class
